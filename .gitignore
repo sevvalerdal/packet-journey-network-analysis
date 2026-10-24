@@ -1,0 +1,13 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+__pycache__/
+.env
+*.pcap
+*.pcapng
